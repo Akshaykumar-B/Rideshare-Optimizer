@@ -1,0 +1,29 @@
+# Firebase Secrets
+backend/serviceAccountKey.json
+*.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+ENV/
+backend/rideshare.db
+
+# Node.js
+node_modules/
+dist/
+.eslintcache
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project specific
+backend/temp_output.txt
+backend/test_output.txt

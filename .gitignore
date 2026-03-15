@@ -27,3 +27,11 @@ dist/
 # Project specific
 backend/temp_output.txt
 backend/test_output.txt
+
+# Agent and AI folders
+.agent/
+.agents/
+.claude/
+.gemini/
+.cortex/
+.antigravity/
